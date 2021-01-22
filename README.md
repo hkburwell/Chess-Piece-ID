@@ -1,8 +1,8 @@
 # Chess-Piece-ID
 ## Table of Contents 
-* [General Information]
-* [Technology]
-* [Setup]
+* [General Information](#general-Information)
+* [Technology](#technology)
+* [Setup](#setup)
 ## General Information 
 This notebook walks through the development of a simple Convolutional Neural Net which classifies images depicting chess pieces.
 
